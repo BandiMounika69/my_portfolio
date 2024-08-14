@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/BandiMounika69?tab=repositories",  // Replace with your actual GitHub URL
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",  // Replace with your resume URL
+    "https://drive.google.com/file/d/1beh8veb5oYM6UIZkKb1VIFNmIdOUqHDc/view?usp=sharing",  // Replace with your resume URL
   linkedin: "https://www.linkedin.com/in/mounika-bandi?u",  // Replace with your LinkedIn URL
   youtube: "https://youtube.com/@soulsync88?feature=shared",  // Replace with your actual Twitter URL
   insta: "https://www.instagram.com/poetverse8?utm_source=qr&igsh=MXhkd3luanVrZTZkMA==",  // Replace with your actual Instagram URL
